@@ -18,4 +18,5 @@ For detailed instructions on how to get started, check out this [guide](https://
 //https://stackoverflow.com/questions/5915096/get-random-item-from-javascript-arra
 //stackoverflow.com/questions/13916966/adding-collision-detection-to-images-drawn-on-canvas
 udacity starting code 
+https://github.com/KatieLo/frogger 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
